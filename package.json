@@ -1,0 +1,58 @@
+{
+  "name": "flow-game",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@eva/eva.js": "^1.0.9",
+    "@eva/plugin-renderer": "^1.0.9",
+    "@eva/plugin-renderer-graphics": "^1.0.9",
+    "@eva/plugin-renderer-img": "^1.0.9",
+    "@formily/antd": "^2.0.0-beta.76",
+    "@formily/core": "^2.0.0-beta.76",
+    "@formily/react": "^2.0.0-beta.76",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-color": "^3.0.4",
+    "@types/react-dom": "^17.0.0",
+    "@types/uuid": "^8.3.1",
+    "antd": "^4.16.6",
+    "moment": "^2.29.1",
+    "rc-color-picker": "^1.2.6",
+    "react": "^17.0.2",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.2",
+    "react-flow-renderer": "^9.6.3",
+    "react-scripts": "4.0.3",
+    "typescript": "^4.1.2",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
