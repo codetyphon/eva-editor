@@ -179,7 +179,7 @@ const nodes: any[] = [
                 {
                     name: 'src',
                     title: 'src',
-                    value: 'chrome-100.png',
+                    value: 'https://codetyphon.github.io/eva-editor/chrome-100.png',
                     component: "Input"
                 }
             ]
