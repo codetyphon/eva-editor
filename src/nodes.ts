@@ -179,7 +179,7 @@ const nodes: any[] = [
                 {
                     name: 'src',
                     title: 'src',
-                    value: '/chrome-100.png',
+                    value: 'chrome-100.png',
                     component: "Input"
                 }
             ]
