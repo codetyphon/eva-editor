@@ -20,7 +20,7 @@ const Preview = ({ confs }: any) => {
 
     const [imageRes, setImageRes] = useState({
         name: uuidv4(),
-        src: "/chrome-100.png"
+        src: "https://codetyphon.github.io/eva-editor/chrome-100.png"
     })
 
     useEffect(() => {
